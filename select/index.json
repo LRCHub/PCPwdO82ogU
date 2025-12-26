@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Chasing destiny",
+  "base_artist": "涼宮ハルヒ(CV.平野綾)",
+  "createdAt": "2025-12-26T05:50:34.261722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "chasing destiny",
+      "artist": "sub pub music",
+      "has_synced": false,
+      "path": "select/01_chasing_destiny_sub_pub_music.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chasing destiny",
+      "artist": "Haruhi Suzumiya(CV.Aya Hirano）",
+      "has_synced": false,
+      "path": "select/02_Chasing_destiny_Haruhi_Suzumiya(CV.Aya_Hirano).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chasing destiny",
+      "artist": "涼宮ハルヒ(CV.平野綾)",
+      "has_synced": false,
+      "path": "select/pl_01_Chasing_destiny_涼宮ハルヒ(CV.平野綾).txt"
+    }
+  ]
+}
